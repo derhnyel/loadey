@@ -1,7 +1,9 @@
+package loady
+
 // Config is a configuration.
 // type Config struct {
 // 	Proxy    Proxy     `json:"proxy"`
-// 	Backends []Backend `json:"backends"`
+// 	Resource []Resources `json:"urls"`
 // }
 
 // // Proxy is a reverse proxy, and means load balancer.
